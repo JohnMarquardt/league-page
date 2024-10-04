@@ -7,8 +7,14 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>A league born in infamy.</p>
-  <p>Est. 2024</p>
+  <p>It began with the forging of the Great Teams.</p>
+  <p>Four were given to the Teachers, immortal, wisest and fairest of all beings.</p>
+  <p>Four to the Pastors, great workers and craftsmen of the sanctuary halls.</p>
+  <p>And three, three teams were gifted to the race of Men, who above all else desire victory.</p>
+  <p>For within these teams was bound the strength and the will to govern each position.</p>
+  <p>But they were all of them deceived, for another team was made.</p>
+  <p>Deep in the land of Vietnam, in the Fires of Mount Ba Den, the Dark Lord Jed forged a master team, and into this team he poured his cruelty, his malice and his will to dominate all matchups.</p>
+  <p>One team to rule them all.</p>
 `;
 
 /*   STEP 3   */
